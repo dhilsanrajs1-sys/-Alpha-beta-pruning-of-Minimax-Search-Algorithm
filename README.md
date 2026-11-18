@@ -1,5 +1,4 @@
-<h1>ExpNo 7 : Implement Alph
-a-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
+<h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
 <h3>Name: DHILSANRAJ S      </h3>
 <h3>Register Number: 212225230058         </h3>
 <H3>Aim:</H3>
